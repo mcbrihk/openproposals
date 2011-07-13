@@ -1,9 +1,10 @@
 # Organization running event:
-organization: 'Ignite Birmingham'
+organization: 'Ignite Anytown'
 
 # Breadcrumbs that are always visible, each breadcrumb is a name and URI:
 breadcrumbs:
-  - ['Ignite Birmingham', 'http://www.ignitebirmingham.com/']
+  - ['Ignite Anytown', 'http://www.igniteanytown.com/']
+  - ['Proposals', '/proposals/']
 
 # Timezone for dates in this application:
-timezone: 'Central Time (US & Canada)'
+timezone: 'Pacific Time (US & Canada)'
